@@ -1,5 +1,7 @@
 === Untappd Brewery Widget ===
+
 Requires PHP: 7.4
+
 License: GPL-2.0-or-later
 
 Displays the latest check-ins for a brewery fetched live from the Untappd API.
